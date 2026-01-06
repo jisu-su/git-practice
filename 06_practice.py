@@ -1,3 +1,3 @@
-a = "bye"
+a = "afternon"
 
 print(a)
